@@ -15,8 +15,8 @@ With a background in research, teaching, and intuitive exploration, I craft proj
 ---
 
 ## 🔮 Recent Projects
-- [Tarot Reader App](https://github.com/gcicchelli/tarot_reader) — a magical divination tool for intuitive readings
-- [Interest Calculator](https://github.com/gcicchelli/interest_calculator) — a clean, practical calculator for financial insights
+- [Tarot Reader App](https://gcicchelli.github.io/moonandmemory-tarot/) — a magical divination tool for intuitive readings
+- [Interest Calculator](https://gcicchelli.github.io/compounding_interest_web/) — a clean, practical calculator for financial insights
 
 ---
 
