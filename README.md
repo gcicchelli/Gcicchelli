@@ -1,5 +1,6 @@
 # Welcome, I'm Giana Cicchelli ✨
 [![CompTIA A+ ce Certification](https://images.credly.com/size/340x340/images/0eed94a6-f91b-45e8-a9ab-fea61e6269db/image.png)](https://www.credly.com/badges/0eed94a6-f91b-45e8-a9ab-fea61e6269db/public_url)
+
 Curiosity is my compass. Creativity is my craft.
 
 I am a sociologist, educator, and creator dedicated to building tools that illuminate, empower, and transform.  
