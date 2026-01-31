@@ -1,7 +1,5 @@
 # Welcome, I'm Giana Cicchelli ✨
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0eed94a6-f91b-45e8-a9ab-fea61e6269db" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 Curiosity is my compass. Creativity is my craft.
 
 I am a sociologist, educator, and creator dedicated to building tools that illuminate, empower, and transform.  
