@@ -2,10 +2,9 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/0eed94a6-f91b-45e8-a9ab-fea61e6269db/public_url">
-    <img src="https://api.credly.com/v1/badges/0eed94a6-f91b-45e8-a9ab-fea61e6269db/image" alt="CompTIA A+ Core 2 Badge" />
+    <img src="https://api.credly.com/v1/badges/0eed94a6-f91b-45e8-a9ab-fea61e6269db/image" alt="CompTIA A+ Badge" />
   </a>
 </p>
-[![CompTIA A+ Core 2 Badge](https://api.credly.com/v1/badges/0eed94a6-f91b-45e8-a9ab-fea61e6269db/image)](https://www.credly.com/badges/0eed94a6-f91b-45e8-a9ab-fea61e6269db/public_url)
 
 Curiosity is my compass. Creativity is my craft.
 
