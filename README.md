@@ -4,7 +4,7 @@
 Curiosity is my compass. Creativity is my craft.
 
 I am a sociologist, educator, and creator dedicated to building tools that illuminate, empower, and transform.  
-With a background in research, teaching, and intuitive exploration, I craft projects that bridge insight, imagination, and innovation.
+With a background in research, teaching, and intuitive exploration, I craft projects that bridge imagination, and innovation.
 
 ---
 
